@@ -313,3 +313,5 @@ undefined
 ### 4-8. TypeScriptの環境設定 
 #### ypeScript のコンパイルオプション
 #### sconfig.jsonのカスタマイズ 
+
+ここに追記してみました
